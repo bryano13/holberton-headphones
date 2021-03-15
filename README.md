@@ -20,3 +20,6 @@
 
 # Wireframe of the headphones project - mobile version (480px)
 ![](01_headphones_mobile@2x.png)
+
+## Author
+Bryan Ortiz - [Github](https://github.com/bryano13) / [Twitter](https://twitter.com/bryano_13)  
